@@ -1,0 +1,17 @@
+name: AtomiCloud Namespace CI Environment
+description: "Setups AtomiCloud's CI environment for Namespace"
+
+runs:
+  using: "composite"
+  steps:
+    - name: Setup Nix Folder
+      shell: bash
+      run: |
+        sudo mkdir /nix
+        sudo chown $USER /nix
+    - name: Cache Nix
+      uses: namespacelabs/nscloud-cache-action@v1
+      with:
+        path: /nix
+    - name: Install Nix
+      uses: cachix/install-nix-action@v22
