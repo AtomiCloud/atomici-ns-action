@@ -1,3 +1,10 @@
+## [1.3.0](https://github.com/AtomiCloud/atomici-ns-action/compare/v1.2.0...v1.3.0) (2024-02-24)
+
+
+### ✨ Features ✨
+
+* upgrade to use self for CI ([1df1ad1](https://github.com/AtomiCloud/atomici-ns-action/commit/1df1ad1f8a822337f98d1ed54b04ffb69f985686))
+
 ## [1.2.0](https://github.com/AtomiCloud/atomici-ns-action/compare/v1.1.0...v1.2.0) (2024-02-24)
 
 
