@@ -8,9 +8,10 @@ jobs:
     name: Release
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v4
-      - uses: DeterminateSystems/nix-installer-action@main
-      - uses: DeterminateSystems/magic-nix-cache-action@main
+      - name: AtomiCloud CI Environment
+        uses: AtomiCloud/atomici-ns-action@v1.1.0
+        with:
+          namespacelabs: "false"
 
       - name: Release
         env:
