@@ -1,3 +1,15 @@
+## [1.1.0](https://github.com/AtomiCloud/atomici-ns-action/compare/v1.0.0...v1.1.0) (2024-02-24)
+
+
+### 🐛 Bug Fixes 🐛
+
+* incorrect condition expression ([dbc5d7b](https://github.com/AtomiCloud/atomici-ns-action/commit/dbc5d7b88a7b1363f519604e435d979b3a6decd0))
+
+
+### ✨ Features ✨
+
+* update branding and self-use ([303e18e](https://github.com/AtomiCloud/atomici-ns-action/commit/303e18ee75b43bd0867a9cd392dbc6d25b475caf))
+
 ## 1.0.0 (2024-02-24)
 
 
