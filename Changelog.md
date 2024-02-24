@@ -1,3 +1,15 @@
+## [1.2.0](https://github.com/AtomiCloud/atomici-ns-action/compare/v1.1.0...v1.2.0) (2024-02-24)
+
+
+### 🐛 Bug Fixes 🐛
+
+* incorrect if expressions ([670f836](https://github.com/AtomiCloud/atomici-ns-action/commit/670f836669bda1df9e7383b9a559c854a6723bf6))
+
+
+### ✨ Features ✨
+
+* upgrade to use self for CI ([5f5c966](https://github.com/AtomiCloud/atomici-ns-action/commit/5f5c9669a7bbf3a9eb6bb489d5c30afb60d24627))
+
 ## [1.1.0](https://github.com/AtomiCloud/atomici-ns-action/compare/v1.0.0...v1.1.0) (2024-02-24)
 
 
